@@ -1,0 +1,23 @@
+@using System.Linq
+@model IEnumerable<MoviesApp.ViewModels.ViewFilmsViewModel>
+
+@{
+    ViewData["Title"] = "Films";
+}
+
+<h1>Films</h1>
+<div>
+    <table class="table">
+        <tbody>
+        @foreach (var v in Model)
+        {
+            <tr>
+                <td>
+                    @v.movieName
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+     <a asp-action="Index">Back to List</a>
+</div>

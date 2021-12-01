@@ -1,0 +1,170 @@
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\appsettings.Development.json
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\appsettings.json
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.exe
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.deps.json
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.runtimeconfig.json
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.runtimeconfig.dev.json
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\ref\MoviesApp.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.pdb
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.Views.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.Views.pdb
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Bcl.HashCode.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Data.SqlClient.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Identity.Client.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Logging.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\System.Configuration.ConfigurationManager.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\System.Runtime.Caching.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win-arm64\native\sni.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win-x64\native\sni.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win-x86\native\sni.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.csproj.AssemblyReference.cache
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.AssemblyInfoInputs.cache
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.AssemblyInfo.cs
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.csproj.CoreCompileInputs.cache
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorAssemblyInfo.cache
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorAssemblyInfo.cs
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\staticwebassets\MoviesApp.StaticWebAssets.Manifest.cache
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\staticwebassets\MoviesApp.StaticWebAssets.xml
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\scopedcss\bundle\MoviesApp.styles.css
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.TagHelpers.input.cache
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.TagHelpers.output.cache
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorCoreGenerate.cache
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Create.cshtml.g.cs
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Delete.cshtml.g.cs
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Details.cshtml.g.cs
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Index.cshtml.g.cs
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorTargetAssemblyInfo.cache
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorTargetAssemblyInfo.cs
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.Views.pdb
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.csproj.CopyComplete
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.dll
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\ref\MoviesApp.dll
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.pdb
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.genruntimeconfig.cache
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Artist\Create.cshtml.g.cs
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Artist\Delete.cshtml.g.cs
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Artist\Details.cshtml.g.cs
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Artist\Edit.cshtml.g.cs
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Artist\Index.cshtml.g.cs
+D:\Data\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Artist\Films.cshtml.g.cs
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\Elmah.Io.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\Elmah.Io.AspNetCore.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\Elmah.Io.Client.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\AutoMapper.dll
+D:\Data\MoviesApp\bin\Debug\netcoreapp5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\appsettings.Development.json
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\appsettings.json
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.exe
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.deps.json
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.runtimeconfig.json
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.runtimeconfig.dev.json
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\ref\MoviesApp.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.pdb
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.Views.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\MoviesApp.Views.pdb
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\AutoMapper.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\Elmah.Io.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\Elmah.Io.AspNetCore.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\Elmah.Io.Client.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Bcl.HashCode.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Data.SqlClient.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.Identity.Client.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\Newtonsoft.Json.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\System.Configuration.ConfigurationManager.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\System.Runtime.Caching.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win-arm64\native\sni.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win-x64\native\sni.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win-x86\native\sni.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Projects C#\MoviesApp\MoviesApp\bin\Debug\netcoreapp5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.csproj.AssemblyReference.cache
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.AssemblyInfoInputs.cache
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.AssemblyInfo.cs
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.csproj.CoreCompileInputs.cache
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorAssemblyInfo.cache
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorAssemblyInfo.cs
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\staticwebassets\MoviesApp.StaticWebAssets.Manifest.cache
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\staticwebassets\MoviesApp.StaticWebAssets.xml
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\scopedcss\bundle\MoviesApp.styles.css
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.TagHelpers.input.cache
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.TagHelpers.output.cache
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorCoreGenerate.cache
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Artist\Create.cshtml.g.cs
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Artist\Delete.cshtml.g.cs
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Artist\Details.cshtml.g.cs
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Artist\Edit.cshtml.g.cs
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Artist\Films.cshtml.g.cs
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Artist\Index.cshtml.g.cs
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\HelloWorld\Index.cshtml.g.cs
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Create.cshtml.g.cs
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Delete.cshtml.g.cs
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Details.cshtml.g.cs
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Edit.cshtml.g.cs
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Movies\Index.cshtml.g.cs
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorTargetAssemblyInfo.cache
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.RazorTargetAssemblyInfo.cs
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.Views.pdb
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.csproj.CopyComplete
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.dll
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\ref\MoviesApp.dll
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.pdb
+D:\Projects C#\MoviesApp\MoviesApp\obj\Debug\netcoreapp5.0\MoviesApp.genruntimeconfig.cache
