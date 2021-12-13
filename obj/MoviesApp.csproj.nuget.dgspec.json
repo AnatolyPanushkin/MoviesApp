@@ -48,9 +48,9 @@
               "target": "Package",
               "version": "[8.1.1, )"
             },
-            "Elmah.Io.AspNetCore": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[4.0.30, )"
+              "version": "[3.1.10, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -71,10 +71,6 @@
             "Microsoft.EntityFrameworkCore.SqlServer.Design": {
               "target": "Package",
               "version": "[2.0.0-preview1-final, )"
-            },
-            "elmah.io": {
-              "target": "Package",
-              "version": "[4.0.25, )"
             }
           },
           "imports": [

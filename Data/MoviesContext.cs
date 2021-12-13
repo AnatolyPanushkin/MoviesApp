@@ -1,9 +1,13 @@
+using System;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using MoviesApp.Models;
+using MoviesApp.ViewModels;
 
 namespace MoviesApp.Data
 {
-    public class MoviesContext : DbContext
+    public class MoviesContext : IdentityDbContext<ApplicationUser>
     {
         public MoviesContext (DbContextOptions<MoviesContext> options)
             : base(options)
@@ -12,12 +16,13 @@ namespace MoviesApp.Data
 
         public virtual DbSet<Movie> Movies { get; set; }
         public virtual DbSet<Artist> Artists {get; set; }
-        
+       
         public virtual DbSet<MoviesArtist> MoviesArtists {get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            base.OnModelCreating(modelBuilder);
             modelBuilder.HasAnnotation("Relational:Collation", "Cyrillic_General_CI_AS");
             modelBuilder.Entity<MoviesArtist>(entity =>
             {
@@ -37,6 +42,9 @@ namespace MoviesApp.Data
                     .OnDelete(DeleteBehavior.ClientSetNull)
                     .HasConstraintName("FK_MoviesArtists_Movies");
             });
+            
+          
+            // modelBuilder.Entity<IdentityUserRole<Guid>>().HasKey(p => new { p.UserId, p.RoleId });
         }
     }
 }

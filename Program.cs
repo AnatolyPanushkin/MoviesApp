@@ -1,6 +1,8 @@
 using System;
+using System.Linq;
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
@@ -10,6 +12,7 @@ namespace MoviesApp
 {
     public class Program
     {
+        private  static readonly MoviesContext _context;
         public static void Main(string[] args)
         {
             var host = CreateHostBuilder(args).Build();
@@ -29,6 +32,7 @@ namespace MoviesApp
             }
             
             host.Run();
+            
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
