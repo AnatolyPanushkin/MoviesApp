@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using MoviesApp.Services.ArtistServices;
 using MoviesApp.Services.Dto;
@@ -10,10 +11,11 @@ namespace MoviesApp.Controllers.ApiControllers
         public class ArtistApiController:ControllerBase
         {
             private readonly IArtistService _service;
-        
-            public ArtistApiController(IArtistService service)
+            private readonly IMapper _mapper;
+            public ArtistApiController(IArtistService service, IMapper mapper)
             {
                 _service = service;
+                _mapper = mapper;
             }
 
             [HttpGet] // GET: /api/movies
@@ -55,9 +57,9 @@ namespace MoviesApp.Controllers.ApiControllers
             }
         
             [HttpDelete("{id}")] 
-            public ActionResult<ArtistDto> DeleteArtist(int id)
+            public ActionResult<ArtistDtoApi> DeleteArtist(int id)
             {
-                var artist = _service.DeleteMoviesArtists(id);
+                var artist =_mapper.Map<ArtistDtoApi>(_service.DeleteMoviesArtists(id));
                 if (artist == null) return NotFound();  
                 return Ok(artist);
             }

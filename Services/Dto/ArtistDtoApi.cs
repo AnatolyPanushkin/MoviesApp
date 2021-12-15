@@ -13,9 +13,10 @@ namespace MoviesApp.Services.Dto
         
             [Required]
             public string LastName { get; set; }
-        
+            
+            [Required]
             [DataType(DataType.Date)]
-            public DateTime Birthday { get; set; }
+            public DateTime BirthdayDate { get; set; }
 
             public ICollection<int> MoviesArtistsIds { get; set; }
         }
